@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Aj.
+# 👋 Hey there! I'm AJ.
 
 #### 🚀 Frontend Developer | 📊 Momentum Crypto Trader | 🤖 Aspiring Data Scientist 
 
